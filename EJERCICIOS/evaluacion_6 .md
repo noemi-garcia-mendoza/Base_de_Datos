@@ -9,3 +9,6 @@ clave foranea
 
 esta es la nueva version para el ejercicio 7 que seguiria:
 https://www.db-fiddle.com/f/cLbCGv1W9qf5jX6snUcfKh/2
+
+ESTE ES LA LIGA QUE TIENE LA EVALUACION 7 COMPLETA :
+https://www.db-fiddle.com/f/cLbCGv1W9qf5jX6snUcfKh/3
